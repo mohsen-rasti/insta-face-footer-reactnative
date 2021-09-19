@@ -1,0 +1,50 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "~39.0.2",
+    "expo-status-bar": "~1.0.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-web": "~0.13.12",
+    "axios": "*",
+    "enzyme": "*",
+    "expo-av": "~8.6.0",
+    "expo-asset": "~8.2.0",
+    "prop-types": "*",
+    "native-base": "*",
+    "react-player": "*",
+    "expo-constants": "~9.2.0",
+    "react-native-paper": "3.6.0",
+    "react-native-video": "*",
+    "with-default-props": "*",
+    "react-native-slider": "*",
+    "react-native-screens": "~2.10.1",
+    "react-native-youtube": "*",
+    "react-native-keep-awake": "*",
+    "@react-navigation/native": "*",
+    "react-native-orientation": "*",
+    "react-native-vector-icons": "*",
+    "react-native-media-controls": "*",
+    "react-native-video-controls": "*",
+    "react-native-linear-gradient": "*",
+    "react-native-video-component": "*",
+    "@react-navigation/bottom-tabs": "*",
+    "@react-native-community/slider": "3.0.3",
+    "react-native-safe-area-context": "3.1.4",
+    "@react-native-community/netinfo": "5.9.6",
+    "react-native-orientation-locker": "*",
+    "react-native-responsive-fontsize": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
